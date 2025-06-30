@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abdullah Al Saeim
 
 🎓 Computer Science & Engineering Student at IUBAT  
-👨‍💻 Junior Flutter Developer | Android & WordPress Enthusiast | Future Software Engineer  
+👨‍💻 Junior Flutter Developer | Android  Enthusiast | Future Software Engineer  
 🌍 From: Bangladesh  
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/md-abdullah-al-saeim) | [Facebook](https://www.facebook.com/Abdullah.Saeimm)
 
