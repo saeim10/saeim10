@@ -48,17 +48,11 @@ I'm a passionate and self-driven **Flutter Developer** with a strong foundation 
 - 🔹 Practicing spoken English for fluency (Target: C1 level)
 
 ---
-
-## 📈 GitHub Stats
-
-![Saeim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
-
 ---
 
 ## 🌱 Future Goals
 - Become a professional software engineer (Java/Flutter)  
-- Start freelancing in WordPress & Flutter Web  
+- Start freelancing in Flutter  
 - Build a strong programming network  
 - Work with international clients  
 - Publish academic research and contribute to AI healthcare projects  
