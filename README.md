@@ -19,25 +19,25 @@ I'm a passionate and self-driven **Flutter Developer** with a strong foundation 
 🔹 Exploring opportunities in **AI-based research** like Parkinson’s Detection & PCOS Diagnosis  
 
 ---
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- Dart (Flutter)
-- Java (Basic OOP & logic building)
-- SQL (MySQL/phpMyAdmin)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📱 Mobile Development
-- Flutter (3.16.5)
-- Android Studio
-- Responsive UI Design
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-000000?style=flat&logo=flutter&logoColor=white)
 
 ### 🧰 Tools & Platforms
-- Firebase
-- Git & GitHub
-- Figma (UI to Flutter)
-- Fiverr (Freelancer in training!)
-- Visual Studio Code
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
