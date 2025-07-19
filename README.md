@@ -13,9 +13,6 @@ I'm a passionate and self-driven **Flutter Developer** with a strong foundation 
 
 🔹 Skilled in developing native Android and cross-platform apps  
 🔹 Currently learning Flutter deeply through structured plans  
-🔹 Building small demand-driven projects to prepare for **Fiverr freelancing**  
-🔹 Interested in **gaming content creation** and exploring **Free Fire/PUBG mobile video editing**  
-🔹 Developing personal discipline & productivity through consistent daily routines  
 🔹 Exploring opportunities in **AI-based research** like Parkinson’s Detection & PCOS Diagnosis  
 
 ---
